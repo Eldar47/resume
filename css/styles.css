@@ -1,0 +1,15 @@
+.nav {
+    background: rgb(33, 67, 97) !important;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.bg-header {
+    background-image: url(../assets/img/bg-header.jpg);
+    background-size:auto;
+    height: 500px;
+    
+}
